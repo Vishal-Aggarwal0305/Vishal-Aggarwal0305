@@ -44,8 +44,9 @@ console.log(`Ready for Fire !!!`);
 	<a href="mailto:aggarwalvishal0305@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Vishal-Aggarwal0305"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/vishalaggarwal0305"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	
 	<a href="https://instagram.com/vishaaal.l"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	
+	
 	
 	
 </p>
