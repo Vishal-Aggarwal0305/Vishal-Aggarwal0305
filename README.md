@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Vishal%20Aggarwal&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Vishal%20Aggarwal&fontSize=90&fontColor=000000)
 ### Hello Forks <Forks/> 👋
 ------------------
  
