@@ -52,8 +52,11 @@ console.log(`Ready for Fire !!!`);
 </p>
 
 ### Here's my github README stats:
+<p align="center">
 
 [![Vishal Aggarwal GitHub Streak](https://streak-stats.demolab.com?user=Vishal-Aggarwal0305&theme=python-dark)](https://git.io/streak-stats)
+	
+	</p>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=footer&fontSize=90)
