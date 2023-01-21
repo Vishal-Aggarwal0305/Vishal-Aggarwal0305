@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Vishal%20Aggarwal&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Vishal%20Aggarwal&fontSize=90)
 ### Hello Forks <Forks/> 👋
 ------------------
  
@@ -52,11 +52,9 @@ console.log(`Ready for Fire !!!`);
 </p>
 
 ### Here's my github README stats:
-<p align="center">
 
 [![Vishal Aggarwal GitHub Streak](https://streak-stats.demolab.com?user=Vishal-Aggarwal0305&theme=python-dark)](https://git.io/streak-stats)
-	
-	</p>
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=footer&fontSize=90)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&fontSize=90)
