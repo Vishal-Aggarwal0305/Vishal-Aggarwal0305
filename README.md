@@ -55,6 +55,9 @@ console.log(`Ready for Fire !!!`);
 
 [![Vishal Aggarwal GitHub Streak](https://streak-stats.demolab.com?user=Vishal-Aggarwal0305&theme=python-dark)](https://git.io/streak-stats)
 
+[![Vishal Aggarwal GitHub Streak](https://github-readme-stats.vercel.app/api?username=vishal-aggarwal0305)](https://git.io/streak-stats)
+
+
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&fontSize=90)
